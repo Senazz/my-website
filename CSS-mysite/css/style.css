@@ -1,0 +1,203 @@
+body{
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  color: #66BFBF;
+  background: #072227;
+}
+h1{
+  font-size: 5em;
+  width: 20%;
+  margin: 0 auto;
+  font-family: 'Lobster', cursive;
+  color: #66BFBF;
+  line-height: 2 ;
+}
+h2{
+  font-size:3em;
+  font-weight: normal;
+}
+h3{
+color: #11999E;
+font-size: 1.5em;
+}
+.info{
+  width: 30%;
+}
+p{
+  color: white;
+}
+.top-container{
+  background-color: #AEFEFF;
+  padding: 20px;
+  border: 10px solid #AEFEFF;
+  text-align: center;
+  position: relative;
+  padding-top: 250px;
+}
+.center-container{
+  background-color:#4FBDBA;
+  border: 20px solid #4FBDBA;
+  height: 2280px;
+  text-align: center;
+  position: relative;
+}
+.bottom-container{
+  background-color: #072227;
+  border: 10px solid #072227;
+  color: white;
+  position: relative;
+  text-align: center;
+  bottom: 39px;
+}
+.circle{
+  border-radius: 50%;
+}
+hr{
+  width: 95px;
+  border-top: 10px dotted turquoise;
+}
+span{
+  display: inline;
+}
+.matahari{
+  position: absolute;
+  top: 1px;
+  right: 44%;
+  background-image: url(../picture/sun.png);
+  width: 200px;
+  height: 200px;
+}
+.foto{
+  position: absolute;
+  background-image: url(../picture/bagasena2.jpeg);
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  position: absolute;
+  left: 42.5%;
+}
+.isi{
+  position: absolute;
+  top: 200px;
+  right: 200px;
+}
+.cloud1{
+  position: absolute;
+  bottom: 470px;
+  left: 1%;
+}
+.cloud2{
+  position: absolute;
+  bottom: 250px;
+  left: 11%;
+}
+.cloud3{
+  position: absolute;
+  bottom: 415px;
+  left: 22%;
+}
+.cloud4{
+  position: absolute;
+  bottom: 320px;
+  left: 33%;
+}
+.cloud5{
+  position: absolute;
+  bottom: 415px;
+  right: 22%;
+}
+.cloud6{
+  position: absolute;
+  bottom: 320px;
+  right: 33%;
+}
+
+.cloud7{
+  position: absolute;
+  bottom: 250px;
+  right: 11%;
+}
+.cloud8{
+  position: absolute;
+  bottom: 470px;
+  right: 1%;
+}
+.isi2{
+  position: absolute;
+  top: 300px;
+  width: 100%;
+}
+
+br{
+  height: 290px;
+  width: auto;
+}
+.foto2{
+  position: absolute;
+  background-image: url(../picture/school.png);
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  position: absolute;
+  left: 42.5%;
+  top: 100px;
+
+}
+.foto3{
+  position: absolute;
+  background-image: url(../picture/softskill.png);
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  position: absolute;
+  left: 42.5%;
+  top: 750px;
+}
+.foto4{
+  position: absolute;
+  background-image: url(../picture/computer.png);
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  position: absolute;
+  left: 42.5%;
+  top: 1400px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.contact{
+  height: 500px;
+  text-align: center;
+  position: relative;
+  background-color: #35858B;
+  bottom: 39px;
+}
+.skills p{
+  position: absolute;
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
